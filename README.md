@@ -8,7 +8,7 @@ This is a Laravel-based application designed to manage tasks and posts with real
 - Composer  
 - Node.js & NPM  
 - MySQL or compatible database  
-- Laravel 10+  
+- Laravel 12  
 - Redis (if using queue broadcasting)  
 
 ---
